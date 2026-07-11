@@ -69,13 +69,6 @@ const viraj = {
 <img src="https://streak-stats.demolab.com?user=viraj-devkar&theme=nord"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=viraj-devkar&theme=nord&no-frame=true&no-bg=true&row=1"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=viraj-devkar&theme=nord"/>
-</p>
 
 ## 🌐 Connect
 
