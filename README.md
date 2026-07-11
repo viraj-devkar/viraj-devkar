@@ -66,11 +66,6 @@ const viraj = {
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=viraj-devkar&show_icons=true&theme=nord"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-devkar&layout=compact&theme=nord"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=viraj-devkar&theme=nord"/>
 </p>
 
