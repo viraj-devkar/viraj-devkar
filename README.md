@@ -35,7 +35,7 @@ const viraj = {
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,r,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,r,mysql,kotlin"/>
 </p>
 
 ### Frontend
