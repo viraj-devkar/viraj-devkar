@@ -21,11 +21,11 @@
 ```ts
 const viraj = {
   title: "Data Analyst",
-  stack: ["Python","Java","SQL","JavaScript","R","Flask","FastAPI","Node.js","Express.js","React","Power BI","Tableau"],
-  launchedProjects: ["SupplyFlow - Supply Chain & Inventory Analytics","HR Workforce & Retention Analytics"],
-  certifications: ["AI - Data Engineer Analyst", "Google Data Analytics", "Business Analysis and Project Management", "Data Analytics", "Data Science, Machine Learning and Neural Networks"],
+  stack: "Python","Java","SQL","JavaScript","R","Flask","FastAPI","Node.js","Express.js","React","Power BI","Tableau",
+  launchedProjects: "SupplyFlow - Supply Chain & Inventory Analytics","HR Workforce & Retention Analytics",
+  certifications: "AI - Data Engineer Analyst", "Google Data Analytics", "Business Analysis and Project Management", "Data Analytics", "Data Science, Machine Learning and Neural Networks",
   status: "Learning & Building AI/Data Analytics Projects",
-  openTo: "Data Analyst, AI/ML Internships and Full-time Opportunities"
+  openTo:"Data Analytics", "Business Analytics", "Business Intelligence", "AI & Machine Learning", "Data Engineering"
 }
 ```
 
