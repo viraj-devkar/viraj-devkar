@@ -21,12 +21,30 @@
 ```ts
 const viraj = {
   title: "Data Analyst",
-  stack: "Python","SQL","Excel","Power BI","Tableau","Pandas","NumPy","Matplotlib","Scikit-learn","Statistics","EDA","Data Visualization","ETL","Data Modeling","Google Sheets"
-  launchedProjects: "SupplyFlow - Supply Chain & Inventory Analytics","HR Workforce & Retention Analytics",
-  certifications: "AI - Data Engineer Analyst", "Google Data Analytics", "Business Analysis and Project Management", "Data Analytics", "Data Science, Machine Learning and Neural Networks",
-  status: "Learning & Building AI/Data Analytics Projects",
-  openTo:"Data Analytics", "Business Analytics", "Business Intelligence", "AI & Machine Learning", "Data Engineering"
-}
+  stack: [
+    "Python", "SQL", "Excel", "Power BI", "Tableau",
+    "Pandas", "NumPy", "Matplotlib", "Statistics",
+    "EDA", "Data Visualization", "ETL", "Data Modeling",
+    "Google Sheets"
+  ],
+  launchedProjects: [
+    "SupplyFlow - Supply Chain & Inventory Analytics",
+    "HR Workforce & Retention Analytics"
+  ],
+  certifications: [
+    "AI - Data Engineer Analyst",
+    "Google Data Analytics",
+    "Business Analysis and Project Management",
+    "Data Analytics",
+    "Data Science, Machine Learning and Neural Networks"
+  ],
+  status: "Learning & Building Data Analytics Projects",
+  openTo: [
+    "Data Analytics",
+    "Business Analytics",
+    "Business Intelligence"
+  ]
+};
 ```
 
 ## 🚀 Featured Projects
