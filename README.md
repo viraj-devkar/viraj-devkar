@@ -21,7 +21,7 @@
 ```ts
 const viraj = {
   title: "Data Analyst",
-  stack: "Python","Java","SQL","JavaScript","R","Flask","FastAPI","Node.js","Express.js","React","Power BI","Tableau",
+  stack: "Python","SQL","Excel","Power BI","Tableau","Pandas","NumPy","Matplotlib","Scikit-learn","Statistics","EDA","Data Visualization","ETL","Data Modeling","Google Sheets"
   launchedProjects: "SupplyFlow - Supply Chain & Inventory Analytics","HR Workforce & Retention Analytics",
   certifications: "AI - Data Engineer Analyst", "Google Data Analytics", "Business Analysis and Project Management", "Data Analytics", "Data Science, Machine Learning and Neural Networks",
   status: "Learning & Building AI/Data Analytics Projects",
