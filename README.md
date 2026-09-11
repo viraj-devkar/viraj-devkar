@@ -23,7 +23,7 @@ const viraj = {
   title: "Data Analyst",
   stack: ["Python","Java","SQL","JavaScript","R","Flask","FastAPI","Node.js","Express.js","React","Power BI","Tableau"],
   launchedProjects: [],
-  certifications: [],
+  certifications: ["AI - Data Engineer Analyst", "Google Data Analytics", "Business Analysis and Project Management", "Data Analytics", "Data Science, Machine Learning and Neural Networks", "Data Science Mastery"],
   status: "Learning & Building AI/Data Analytics Projects",
   openTo: "Data Analyst, AI/ML Internships and Full-time Opportunities"
 }
