@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to_Work-Yes-22c55e?style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=viraj-devkar&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/viraj-devakr?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/viraj-devkar?style=for-the-badge"/>
 </p>
 
 ## 👨‍💻 Who I Am
